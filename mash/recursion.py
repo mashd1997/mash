@@ -1,6 +1,6 @@
 def sum_array(array):
 
-  if type(array) == int:
+    if type(array) == int:
         return array
 
     sum = 0
