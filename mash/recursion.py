@@ -1,6 +1,6 @@
-ddef sum_array(array):
+def sum_array(array):
 
-    if type(array) == int:
+  if type(array) == int:
         return array
 
     sum = 0
@@ -10,6 +10,7 @@ ddef sum_array(array):
         else:
             sum = sum+i
     return sum
+
 
 def fibonacci(n):
     if n <= 1:
@@ -27,4 +28,3 @@ def factorial(n):
 def reverse(word):
     reversal = word[::-1]
     return reversal
-    
