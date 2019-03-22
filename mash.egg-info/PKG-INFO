@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: mash
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/mashd1997/mash
+Author: Mashudu Molefe
+Author-email: mashmolefe97@gmail.com
+License: MIT
+Description: GOAT = 'Mashudu'
+        print(GOAT)
+        
+Platform: UNKNOWN

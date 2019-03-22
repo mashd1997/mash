@@ -1,0 +1,7 @@
+README.md
+setup.py
+mash.egg-info/PKG-INFO
+mash.egg-info/SOURCES.txt
+mash.egg-info/dependency_links.txt
+mash.egg-info/requires.txt
+mash.egg-info/top_level.txt
