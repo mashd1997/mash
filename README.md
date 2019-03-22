@@ -1,0 +1,2 @@
+GOAT = 'Mashudu'
+print(GOAT)
